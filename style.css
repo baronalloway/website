@@ -1,5 +1,6 @@
 body{
     background-color: white;
+    color: black;
 }
 h1{
     font-family: 'Serenity', Helvetica, sans-serif;
@@ -62,4 +63,53 @@ p.default{
 }
 .bigpage{
     height: 50vh;
+}
+
+
+.box{
+    padding-top: 10vh;
+    padding-bottom: 20vh;
+    height: 10vh;
+    border: 2px solid;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+
+}
+
+#cam360{
+    background: url("360cam.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#watcard{
+    background: url("watcard.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#montecarlo{
+    background: url("montecarlo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#elementbuddy{
+    background: url("elementbuddy.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#istudiez{
+    background: url("istudiez.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#lokdforandroid{
+    background: url("lokd-logo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.boxtext{
+    background: rgba(255,255,255,0.8);
+}
+.nogreen{
+    color: black;
 }
