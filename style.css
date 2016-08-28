@@ -33,10 +33,10 @@ p.default{
     background: url(headshot_web.jpg);
     background-size: cover;
     background-position: center;
-    height: 60vh;
+    height: 50vh;
 }
 .right-about{
-    height: 60vh;
+
 }
 
 
@@ -112,4 +112,11 @@ p.default{
 }
 .nogreen{
     color: black;
+}
+
+
+.centerimage{
+    align-content: center;
+    align-self: center;
+    width: 100%;
 }
