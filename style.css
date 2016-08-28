@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+}
+h1{
+    font-family: 'Serenity', Helvetica, sans-serif;
+    text-transform: none;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    color: black;
+}
+p.default{
+    font-family:;
+    font-weight: lighter;
+    color: black;
+    letter-spacing: 2px;
+
+}
+.logo{
+    width: 25vh;
+    height: 25vh;
+}
+.intro{
+    background: url(volcano.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.left-about{
+    background: url(headshot_web.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+}
+.right-about{
+    height: 60vh;
+}
+
+
+.navbar-custom.top-nav-collapse{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.navbar-custom.top-nav-collapse a{
+    color: black;
+}
+.active{
+    text-decoration: underline;
+    background-color: rgba(0,0,0,0);
+}
+.navbar-custom .nav li a:hover {
+  color: rgba(0, 0, 0, 0.6);
+  outline: none;
+  background-color: transparent;
+}
+.navbar-custom .nav li.active a {
+  background-color: rgba(255, 255, 255, 0);
+}
+.navbar-custom .nav li.active a:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+.bigpage{
+    height: 50vh;
+}
