@@ -22,10 +22,22 @@
             <center><img class="logo" src="resources/logo-1.png"></center>
         </div>
     </div>
+
     <div class="infotext">
+        <div class="container">
+        <div class="col-md-6"><center><img class="me" src="resources/avatar.jpg"></center>
+        </div>
+        <div class="col-md-6">
         Baron Alloway. A Tinkerer and Programmer from Toronto, Canada.<br>
         Currently Studying Biomedical Engineering in Miami, Florida.
-
+        </div>
+    </div>
+    </div>
+    <div class="breaker"></div>
+    <div class="hotlinks">
+        <div class="col-md-4">Photography</div>
+        <div class="col-md-4">Recent Projects</div>
+        <div class="col-md-4">Read my Blog</div>
     </div>
 </body>
 <footer></footer>
