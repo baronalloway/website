@@ -19,7 +19,7 @@ p {
   border-top: 5px solid; }
 
 .text {
-  font-family: "Serenity", helvetica, sans-serif;
+  font-family: helvetica, sans-serif;
   font-size: 3vh;
   font-weight: lighter; }
 
@@ -88,5 +88,20 @@ footer {
   text-decoration: none;
   border: none;
   margin-top: 1vh; }
+
+i {
+  padding-right: 2%; }
+
+a {
+  text-decoration: none;
+  color: inherit; }
+
+.parallax {
+  min-height: 30vh;
+  background: url(../resources/volcano.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  border: 3vh solid white; }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,3 +1,5 @@
+$volcano: url(../resources/volcano.jpg)
+
 body
     font-family: helvetica, sans-serif
     background-color: white
@@ -14,7 +16,7 @@ p
 .bordered
     border-top: 5px solid
 .text
-    font-family: "Serenity", helvetica, sans-serif
+    font-family: helvetica, sans-serif
     font-size: 3vh
     font-weight: lighter
 .center
@@ -32,7 +34,7 @@ p
     height: 100%
     border: 3vh solid white
     background-color: rgba(0, 0, 0, 0)
-    background: url(../resources/volcano.jpg)
+    background: $volcano
     background-size: cover
     background-position: center
     background-attachment: fixed
@@ -69,3 +71,15 @@ footer
     text-decoration: none
     border: none
     margin-top: 1vh
+i
+    padding-right: 2%
+a
+    text-decoration: none
+    color: inherit
+.parallax
+    min-height: 30vh
+    background: $volcano
+    background-position: center
+    background-size: cover
+    background-attachment: fixed
+    border: 3vh solid white
