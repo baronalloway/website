@@ -11,12 +11,22 @@ h2 {
   font-size: 2.5vh;
   padding-bottom: 0; }
 
+h3 {
+  font-weight: bolder;
+  font-size: 2.5vh;
+  padding-bottom: 0;
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%; }
+
 p {
   font-size: 3vh;
   font-weight: bold; }
 
 .bordered {
-  border-top: 5px solid; }
+  border-top: 5px solid;
+  cursor: pointer; }
 
 .text {
   font-family: helvetica, sans-serif;
@@ -60,7 +70,8 @@ p {
   padding-top: 5vh; }
 
 .me {
-  max-width: 30vh; }
+  max-width: 30vh;
+  border-radius: 50%; }
 
 .hotlinks {
   align-content: center;
@@ -69,7 +80,9 @@ p {
   padding-top: 5vh; }
 
 footer {
-  background-color: black; }
+  background-color: black;
+  padding-top: 3vh;
+  padding-bottom: 3vh; }
 
 .right {
   text-align: right; }
@@ -91,6 +104,10 @@ footer {
 
 i {
   padding-right: 2%; }
+
+.uniformpadding {
+  padding-right: 1%;
+  padding-left: 1%; }
 
 a {
   text-decoration: none;
