@@ -114,11 +114,22 @@ a {
   color: inherit; }
 
 .parallax {
-  min-height: 30vh;
+  min-height: 20vh;
   background: url(../resources/volcano.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
   border: 3vh solid white; }
+
+.smalllogo {
+  max-height: 10vh;
+  margin-top: 2%;
+  margin-bottom: 2%; }
+
+.pagetitle {
+  text-align: justify; }
+
+.titleblock {
+  width: 100%; }
 
 /*# sourceMappingURL=style.css.map */

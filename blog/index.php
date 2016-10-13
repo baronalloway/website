@@ -5,7 +5,9 @@
 </head>
 <body>
     <?php include '../page-components/header.php';?>
-
+<div class="titleblock">
+<span class="pagetitle">B L O G</span>
+</div>
 
 
 
