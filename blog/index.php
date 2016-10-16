@@ -1,4 +1,13 @@
 <HTML>
+    <?php
+
+    //include cockpit
+    include_once('/cockpit/bootstrap.php');
+    //require_once __DIR__ . '/cockpit/bootstrap.php';
+    ?>
+
+
+
 <head>
     <title>Blog | baronalloway.com</title>
     <?php include '../page-components/scriptsnthings.php'; ?>
@@ -6,9 +15,11 @@
 <body>
     <?php include '../page-components/header.php';?>
 <div class="titleblock">
-<span class="pagetitle">B L O G</span>
+<center>BLOG</center>
 </div>
-
+<div class="infoblock">
+    <center>Musings, Rants, Opinions, and thoughts longer than 140 characters.</center>
+</div>
 
 
 
