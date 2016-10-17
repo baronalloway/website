@@ -60,6 +60,10 @@
             <a href="https://instagram.com/baronalloway"><i class="fa fa-instagram fa-2x uniformpadding"></i></a>
             <a href="https://github.com/baronalloway"><i class="fa fa-github fa-2x uniformpadding"></i></a>
             <a href="https://medium.com/@baronalloway"><i class="fa fa-medium fa-2x uniformpadding"></i></a>
+            <a href="https://linkedin.com/in/baronalloway"><i class="fa fa-linkedin fa-2x uniformpadding"></i></a>
+            <br>
+            <br>
+            baron@baronalloway.com
     </div>
 </body>
     <?php include 'page-components/footer.php';?>
