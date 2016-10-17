@@ -3,7 +3,7 @@
 
     //include cockpit
     include_once('/cockpit/bootstrap.php');
-    //require_once __DIR__ . '/cockpit/bootstrap.php';
+    //$item = collection("blog")->findOne(["title"=>"Hello world!"]);
     ?>
 
 
