@@ -41,7 +41,7 @@
                 <div class="col-md-4">
                     <div class="bordered" onclick="location.href='/projects'">
                         <h2>Recent Projects</h2>
-                        <p>A half hour of code is way more therapeutic than a day at the spa for me. </p>
+                        <p>Builds, Hacks, etc. </p>
                     </div>
                 </div>
                 <div class="col-md-4">
