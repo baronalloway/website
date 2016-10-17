@@ -1,12 +1,4 @@
 <HTML>
-    <?php
-
-    //include cockpit
-    include_once('/cockpit/bootstrap.php');
-    //$item = collection("blog")->findOne(["title"=>"Hello world!"]);
-    ?>
-
-
 
 <head>
     <title>Blog | baronalloway.com</title>

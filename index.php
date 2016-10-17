@@ -47,7 +47,7 @@
                 <div class="col-md-4">
                     <div class="bordered right" onclick="location.href='/blog'">
                         <h2>Read my Blog</h2>
-                        <p>Rants, Raves, Praises, and Public Shamings happen here.</p>
+                        <p>I've switched to Medium. Follow me there.</p>
                     </div>
                 </div>
             </div>
@@ -59,6 +59,7 @@
             <a href="https://twitter.com/baronalloway"><i class="fa fa-twitter fa-2x uniformpadding"></i></a>
             <a href="https://instagram.com/baronalloway"><i class="fa fa-instagram fa-2x uniformpadding"></i></a>
             <a href="https://github.com/baronalloway"><i class="fa fa-github fa-2x uniformpadding"></i></a>
+            <a href="https://medium.com/@baronalloway"><i class="fa fa-medium fa-2x uniformpadding"></i></a>
     </div>
 </body>
     <?php include 'page-components/footer.php';?>

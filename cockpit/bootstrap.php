@@ -1,5 +1,4 @@
 <?php
-
 /*
  * Autoload from vendor (PSR-0)
  */
