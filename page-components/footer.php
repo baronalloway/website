@@ -10,6 +10,7 @@
 
             </div>
             <div class="col-md-4">
+                <figure><embed src="https://wakatime.com/share/@f33aa7c4-0932-43dc-93b7-737492e71324/67099965-7ea5-497d-8df3-71fb41a1e689.svg"></embed></figure>
             </div>
             <div class="col-md-4 right">
                 <!-- Begin MailChimp Signup Form -->
