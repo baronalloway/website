@@ -1,0 +1,76 @@
+h1
+{
+	color: black;
+	text-align: center;
+	font-family: "Helvetica";
+	font-size: 300%;
+}
+
+h2
+{
+	text-align: center;
+	font-family: "Century Gothic";
+	font-size: 200%;
+}
+
+body {
+
+	margin: 0;
+}
+div
+{
+
+}
+.introduction
+{
+	font-family: "Helvetica";
+	margin-bottom: 10px;
+	margin-right: 5%;
+	margin-left: 5%;
+
+}
+
+.project
+{
+	margin-top: 50px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 50px;
+	border-radius:1em;
+	border: 2px dashed;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.title
+{
+	font-family: "Helvetica-Bold";
+	font-size: 200%;
+	margin: auto;
+	text-align: center;
+
+
+
+}
+.status
+{
+	font-family: "Courier new";
+	margin-left: 5px;
+}
+.link
+{
+font-family: "Courier";
+margin-left: 5px;
+}
+.description
+{
+	font-family: "Helvetica";
+	margin-left: 5px;
+}
+footer
+{
+text-align: center;
+}
+.main_table{
+	max-width: 75%;
+	margin: auto;
+}

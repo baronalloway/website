@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="bordered right" onclick="location.href='/blog'">
+                    <div class="bordered right" onclick="location.href='https://medium.com/@baronalloway'">
                         <h2>Read my Blog</h2>
                         <p>I've switched to Medium. Follow me there.</p>
                     </div>
